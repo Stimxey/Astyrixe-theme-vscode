@@ -6,5 +6,5 @@ Otro tema oscuro de VSCode.
 # Vista previa
 
 <p align="center">
-  <img alt="preview" src="./images/preview.png" />
+  <img alt="preview" src="https://raw.githubusercontent.com/Stimxey/Astyrixe-theme-vscode/main/images/preview.png" />
 </p>
