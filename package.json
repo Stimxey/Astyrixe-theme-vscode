@@ -1,0 +1,30 @@
+{
+    "name": "astyrixe",
+    "displayName": "Astyrixe",
+    "description": "Dark theme for VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ATRX",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ATRX-color-theme.json"
+            }
+        ]
+    },
+    "icon": "https://example.com",
+    "author": {
+        "name": "Stimxey"
+    },
+    "repository": {
+        "url": "https://github.com/Stimxey/Astyrixe-theme-vscode.git",
+        "type": "git"
+    },
+    "publisher": "stimxey"
+}
