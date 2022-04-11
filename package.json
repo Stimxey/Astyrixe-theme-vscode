@@ -18,7 +18,7 @@
             }
         ]
     },
-    "icon": "https://raw.githubusercontent.com/Stimxey/Astyrixe-theme-vscode/main/images/logo-temp.png",
+    "icon": "./images/logo-temp.png",
     "author": {
         "name": "Stimxey"
     },
